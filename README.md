@@ -1,4 +1,4 @@
 # demo
 this is my first repository
-
-Author- Shivam Saini
+<br>
+Author- Shivam Saini (B.tech)
